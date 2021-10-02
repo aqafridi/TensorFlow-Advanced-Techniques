@@ -29,6 +29,7 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization
 
 * [**Week 2 - Object Detection**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202%20Object%20Detection)
 
+
 * [**Week 3 - Image Segmentation**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%203%20Image%20Segmentation)
 
 * [**Week 4 - Visualization and Interpretability**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%204%20Visualization%20and%20Interpretability)
@@ -42,3 +43,6 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization
 * [**Week 3 - Variational AutoEncoders**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%203%20Variational%20AutoEncoders)
 
 * [**Week 4 - GANS**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%204%20GANs)
+
+## Certificate of Specialization
+! [Tensorflow Advanced Techniques Specialization](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/blob/main/Tensorflow%20Advanced%20Techniques%20Specialization.jpg)
