@@ -45,4 +45,4 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization
 * [**Week 4 - GANS**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%204%20GANs)
 
 ## Certificate of Specialization
-![Tensorflow Advanced Techniques Specialization](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/blob/main/Tensorflow%20Advanced%20Techniques%20Specialization.jpg=250x250)
+![Tensorflow Advanced Techniques Specialization](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/blob/main/Tensorflow%20Advanced%20Techniques%20Specialization.jpg)
