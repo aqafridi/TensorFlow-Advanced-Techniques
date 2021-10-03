@@ -43,6 +43,7 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization
 * [**Week 3 - Variational AutoEncoders**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%203%20Variational%20AutoEncoders)
 
 * [**Week 4 - GANS**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%204%20GANs)
+<img src="TensorFlow-Advanced-Techniques/Generative Deep Learning with TensorFlow/Week 4 GANs/anim.gif" width="250" height="250">
 
 ## Certificate of Specialization
 ![Tensorflow Advanced Techniques Specialization](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/blob/main/Tensorflow%20Advanced%20Techniques%20Specialization.jpg)
