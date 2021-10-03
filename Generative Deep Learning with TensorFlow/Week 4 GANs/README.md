@@ -1,2 +1,2 @@
 ![gif](anim.gif)
-<img src="anim.gif" width="50" height="50">
+<img src="anim.gif" width="500" height="500">
