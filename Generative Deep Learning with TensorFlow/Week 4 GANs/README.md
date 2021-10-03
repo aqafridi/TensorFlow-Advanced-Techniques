@@ -1,1 +1,2 @@
-![gif](anim.gif){:height="50%" width="50%"}
+![gif](anim.gif)
+<img src="anim.gif" width="50" height="50">
