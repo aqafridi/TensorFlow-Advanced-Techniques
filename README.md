@@ -34,7 +34,7 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization
 
 * [**Week 4 - Visualization and Interpretability**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%204%20Visualization%20and%20Interpretability)
 
-## Course 4: Generative Deep Learning with TensorFlow
+## Course 4: Generative Deep Learning with TensorFlow 
 
 * [**Week 1 - Style Transfer**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%201%20Style%20Transfer)
 
